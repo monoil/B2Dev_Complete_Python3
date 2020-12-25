@@ -1,5 +1,6 @@
 print("-------------------------------------------------------")
 print("              Chino's Coffee Bean                      ")
+print(" Date: 26 Dec 2020                                     ")
 print("-------------------------------------------------------")
 print("Amount |     Order                    |    Price(THB)  ")
 print("1      | Chiang Dao medium            |        100.00  ")
